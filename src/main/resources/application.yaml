@@ -1,0 +1,6 @@
+server:
+  port: 8088
+
+app:
+  host: http://pastebox.sendel.ru
+  public_list_size: 10
